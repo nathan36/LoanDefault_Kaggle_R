@@ -1,8 +1,8 @@
 Kaggle Data Competition
 ===================================
 
-This is an entry to [Kaggle](https://www.kaggle.com/c/titanic)'s
-Titanic: Machine Learning from Disaster competition.
+This is an entry to Kaggle's
+[Constructing an optimal portfolio of loans](https://www.kaggle.com/c/loan-default-prediction)
 
 It's written for R 
 
@@ -18,6 +18,6 @@ After installing R just run:
 Installation
 ------------
 
-    git clone https://github.com/nathanli36/R-Programming.git
+    git clone https://github.com/nathanli36/LoanDefault_Kaggle_R.git
 
 
